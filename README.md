@@ -1,6 +1,6 @@
 # Python Web Scraping
-## Get_the_flixup ＞°）m～～～∈ 
-
+## Get the flixup  
+### ＞°）m～～～∈  
 
 Module: **Scripting** </br>
 Duration: **8 days** </br>
@@ -8,7 +8,7 @@ Participant(s):  **solo** </br>
  
 ----
 
-Python script to download torrents from [t1337x](https://1337x.to) & [Pirate Bay](https://thepiratebay.party) with a web browser streaming option.
+Python script using BeautifulSoup and Libtorrent to download torrents from [t1337x](https://1337x.to) & [Pirate Bay](https://thepiratebay.party) with a web browser streaming option.
 
 ----
 
