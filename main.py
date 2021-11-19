@@ -10,8 +10,8 @@ import os
 import sys
 
 href2 = []
-magnet_dl = ""
 names = []
+magnet_dl = ""
 
 welcome = r""" _____              ______ _ _
   ▄████ ▓█████▄▄▄█████▓   ▄▄▄█████▓ ██░ ██ ▓█████      █████▒██▓     ██▓▒██   ██▒ █    ██  ██▓███      ▐██▌ 
@@ -111,7 +111,6 @@ elif torrent_choice == 2:
 
         titles = [links[1].text, (links[9].text), links[17].text, links[25].text, links[33].text,
                   links[41].text, links[49].text, links[57].text, links[65].text, links[73].text]
-
 
         if len(titles) >= 1:
             for i, a in enumerate(titles[0:10]):
